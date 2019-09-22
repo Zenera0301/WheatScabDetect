@@ -1,0 +1,14 @@
+﻿生成启动时间为 2018/2/22 13:59:48。
+     1>项目“E:\项目涉及资料合集\10-软件编程\刘泽宇\Project3\Project1\Project1\Project1.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.DataVisualization.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib MyForm.cpp
+         MyForm.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\项目涉及资料合集\10-软件编程\刘泽宇\Project3\Project1\Debug\Project1.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files\Ocean Optics\OmniDriverSPAM\OOI_HOME" /ASSEMBLYRESOURCE:Debug\Project1.MyForm.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\项目涉及资料合集\10-软件编程\刘泽宇\Project3\Project1\Debug\Project1.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\MyForm.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         Project1.vcxproj -> E:\项目涉及资料合集\10-软件编程\刘泽宇\Project3\Project1\Debug\Project1.exe
+     1>已完成生成项目“E:\项目涉及资料合集\10-软件编程\刘泽宇\Project3\Project1\Project1\Project1.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.91

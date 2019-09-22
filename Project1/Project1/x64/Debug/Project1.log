@@ -1,0 +1,19 @@
+﻿生成启动时间为 2019/9/19 19:23:08。
+     1>项目“G:\DJ\5-其他\项目涉及资料合集\10-软件编程\软件1\可用程序\3\Project3 - 副本 - 副本 - 副本 - 副本 - 副本 - 副本\Project1\Project1\Project1.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I\include /I"C:\Program Files\Java\jdk1.6.0_43\include" /I"C:\Program Files\Java\jdk1.6.0_43\include\win32" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.DataVisualization.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /errorReport:prompt /clr:nostdlib MyForm.cpp svm.cpp
+         MyForm.cpp
+     1>g:\dj\5-其他\项目涉及资料合集\10-软件编程\软件1\可用程序\3\project3 - 副本 - 副本 - 副本 - 副本 - 副本 - 副本\project1\project1\MyForm.h(5): fatal error C1083: 无法打开包括文件: “ArrayTypes.h”: No such file or directory
+         svm.cpp
+         正在生成代码...
+     1>g:\dj\5-其他\项目涉及资料合集\10-软件编程\软件1\可用程序\3\project3 - 副本 - 副本 - 副本 - 副本 - 副本 - 副本\project1\project1\svm.cpp(49): warning C4793: “`anonymous namespace'::info”: 编译为本机的函数:
+         	/clr 下不支持 varargs
+     1>g:\dj\5-其他\项目涉及资料合集\10-软件编程\软件1\可用程序\3\project3 - 副本 - 副本 - 副本 - 副本 - 副本 - 副本\project1\project1\svm.cpp(52): warning C4793: “`anonymous namespace'::info”: 编译为本机的函数:
+         	托管代码中发现一个不受支持的内部函数
+     1>g:\dj\5-其他\项目涉及资料合集\10-软件编程\软件1\可用程序\3\project3 - 副本 - 副本 - 副本 - 副本 - 副本 - 副本\project1\project1\svm.cpp(54): warning C4793: “`anonymous namespace'::info”: 编译为本机的函数:
+         	托管代码中发现一个不受支持的内部函数
+     1>已完成生成项目“G:\DJ\5-其他\项目涉及资料合集\10-软件编程\软件1\可用程序\3\Project3 - 副本 - 副本 - 副本 - 副本 - 副本 - 副本\Project1\Project1\Project1.vcxproj”(Rebuild 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:02.14
